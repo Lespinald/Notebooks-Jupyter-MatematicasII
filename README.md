@@ -1,5 +1,5 @@
 # Notebooks-Jupyter-MatematicasII
 
-Programa para averiguar si una matriz es grupo y cuadro latino en IGTablas01
-Programa de comparación al Totient de Euler en Euler02
-Programa de los mínimos cuadrados en Cuadrados03 
+Program to determine if a matrix is ​​a group and Latin square in IGTablas01
+Comparison program to Euler's Totality in Euler02
+Least squares program in Cuadrados03
